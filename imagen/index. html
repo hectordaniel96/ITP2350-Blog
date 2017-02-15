@@ -1,0 +1,28 @@
+<html> 
+<img src= https://wallpaperscraft.com/image/planet_light_spots_space_86643_1920x1080.jpg />
+
+<head>
+<tilte> <!--el comienzo del titlulo-->Mi pagina web </title> <!-- el cierre de un titulo --> 
+  </head> <!-- cabecera de un documento -->
+  <body> <!-- se coloca inmediatamente después del cierre de la marca </HEAD> --> 
+    <!--
+      <h1> </h1>
+      <h2> </h2>
+      <h3> </h3>
+      <h4> </h4>
+      <h5> </h5>
+      <h6> </h6>
+    -->
+    <h1> Estudiante Hector Castillo 
+</h1>
+    <p> Hector castillo es un estudiante dedicado  a la programacion.<br/>
+      haciendo un asociado. </P> <p> Actualmente se apunto a <b>la guardia nacional.</b></p>
+    <h2> Curso Web Page </h2>
+    <h3> Bienvenido </h3>
+    <p> Llevo en EDP 2 años y eh aprendido muchas cosas en distintas materias<br> y claro no fue nada de facil pero e logrado a dominarlo y ahora estoy terminando y pronto me ire a la guardia nacional si paso asvap...pero estoy positivo y yo se que pedo hacerlo yo voy a mi! (⌐□_□). Ahora me dedico a ir a convenciones o cualquier actividad publica basada en anime o comics.  ԅ(≖‿≖ԅ)</p> 
+  
+  </body> <!-- cierre del encabesamiento -->
+
+</html> 
+  
+
